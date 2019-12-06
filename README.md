@@ -3,8 +3,6 @@ Simple newsreader application using React and Apollo GraphQL platform.
 
 Github Pages: https://martinliba.github.io/newsreader/#/
 
-(When hitting back button scroll may not preserve position 
-in Github Pages version, but works correctly on localhost)
 
 ## To start:
 
@@ -16,6 +14,8 @@ in Github Pages version, but works correctly on localhost)
 
 Builds the app for production to the `build` folder.
 
-
+#### Notes
+(When hitting back button, maintaining previous page scroll position may have issues
+in Github Pages version, but works correctly on localhost)
 
 
